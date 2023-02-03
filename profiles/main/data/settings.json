@@ -1,0 +1,32 @@
+{
+    "sync.gist": "356287d8958968e987a04d555dbf1e19",
+    "sync.forceDownload": false,
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.guides.bracketPairs": true,
+    "editor.fontSize": 18,
+    "editor.fontWeight": "500",
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "sonarlint.pathToNodeExecutable": "C:\\\\Program Files\\\\nodejs\\\\node.exe",
+    "php.debug.executablePath": "C:/xampp/php/php.exe",
+    "tabnine.experimentalAutoImports": true,
+    "rapidapi.terminalLink.enabled": false,
+    "editor.linkedEditing": true,
+    "workbench.iconTheme": "eq-material-theme-icons-light",
+    "workbench.colorCustomizations": {
+    //     "tab.activeBackground": "#0c1021",
+    //     "activityBar.background": "#0c1021",
+        // "sideBar.background": "#0c1021",
+        // "sideBar.foreground": "#636363",
+    //     "editor.background": "#0c1021",
+    //     "terminal.background": "#1c2138"
+    },
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 5,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": true,
+    "syncSettings.hooks.preUpload": ""
+}

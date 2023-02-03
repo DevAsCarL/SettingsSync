@@ -1,0 +1,60 @@
+disabled:
+  - id: amiralizadeh9480.laravel-extra-intellisense
+    uuid: b52072d1-e507-4261-8935-f4d91a055d7d
+  - id: AnbuselvanRocky.bootstrap5-vscode
+    uuid: 905e2fea-1455-4a73-9319-57b046ce5543
+  - id: codingyu.laravel-goto-view
+    uuid: 0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e
+  - id: donjayamanne.jquerysnippets
+    uuid: 99c12a52-ff68-4e9d-a975-a67556fee2f5
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: glitchbl.laravel-create-view
+    uuid: 285b59bb-7629-432e-9c32-417b90e5fbc2
+  - id: IHunte.laravel-blade-wrapper
+    uuid: 8cd88401-57df-4c5d-bd32-8d7e1877b88a
+  - id: mikestead.dotenv
+    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: naoray.laravel-goto-components
+    uuid: c2ef8fe6-9029-4ed9-a7bc-20fd59b327a6
+  - id: octref.vetur
+    uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
+  - id: onecentlin.laravel-blade
+    uuid: 3b58a227-618a-4b57-a06b-6984a2a8d1ba
+  - id: onecentlin.laravel-extension-pack
+    uuid: 970bf208-88ee-472e-a6cf-63ce54817acc
+  - id: onecentlin.laravel5-snippets
+    uuid: 050d4900-7979-4d10-b7aa-e274f6ae8730
+  - id: RapidAPI.vscode-rapidapi-client
+    uuid: 20230aac-4564-4959-86db-f01c2263f93f
+  - id: ryannaddy.laravel-artisan
+    uuid: 8a3855a5-f258-48ee-87f9-fa4f7a0875b1
+  - id: shufo.vscode-blade-formatter
+    uuid: 68a2e971-8ae5-493b-9c34-f4233fb14e40
+enabled:
+  - id: bmewburn.vscode-intelephense-client
+    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
+  - id: capaj.vscode-standardjs-snippets
+    uuid: 2f67a87a-f228-4c64-aa59-d66f638cc822
+  - id: DominicVonk.parameter-hints
+    uuid: 7fd5f373-10e9-45ae-8a88-a7dd234dd5a3
+  - id: ecmel.vscode-html-css
+    uuid: aaee577c-f062-495a-9816-0cbd442f1d25
+  - id: Equinusocio.vsc-material-theme
+    uuid: 45bfc9eb-5e03-487f-bffe-315fa6881d6a
+  - id: equinusocio.vsc-material-theme-icons
+    uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
+  - id: MehediDracula.php-namespace-resolver
+    uuid: 651dce1f-eda8-4a5b-aa26-0d1266de8ed1
+  - id: SonarSource.sonarlint-vscode
+    uuid: a7fa941e-bcda-486f-8141-8483a6286177
+  - id: vincaslt.highlight-matching-tag
+    uuid: aae00486-7e92-42b3-91b0-2b419e4f3875
+  - id: xdebug.php-debug
+    uuid: 044b4b31-2969-4af3-895d-855433b8b46d
+  - id: Zignd.html-css-class-completion
+    uuid: 7b71fc1b-190d-4f7d-95d1-93e422649b0a
+  - id: zobo.php-intellisense
+    uuid: 3eddb68d-a5dd-43fb-be03-6f508d98fe97
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
